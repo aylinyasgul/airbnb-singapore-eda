@@ -2,7 +2,7 @@
 
 A comprehensive EDA of Airbnb listings in Singapore, including data cleaning, visualisation, statistical analysis, and sentiment analysis on guest reviews.
 
-**Course:** Python for Data Analysis I — IE Master in Big Data  
+**Course:** Python for Data Analysis I - IE Master in Business Analytics and Data Science 
 **Dataset:** [Inside Airbnb — Singapore](https://insideairbnb.com/get-the-data/)
 
 ---
