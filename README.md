@@ -67,7 +67,7 @@ data/
 ### 4. Run the notebook
 
 ```bash
-jupyter notebook "Section1Group8_Airbnb_EDA_GroupAssignment - Final.ipynb"
+jupyter notebook "airbnb_singapore_eda.ipynb"
 ```
 
 ---
@@ -76,7 +76,7 @@ jupyter notebook "Section1Group8_Airbnb_EDA_GroupAssignment - Final.ipynb"
 
 ```
 .
-├── Section1Group8_Airbnb_EDA_GroupAssignment - Final.ipynb
+├── airbnb_singapore_eda.ipynb
 ├── README.md
 ├── .gitignore
 └── data/               ← not tracked; download separately
