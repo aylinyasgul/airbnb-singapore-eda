@@ -2,6 +2,10 @@
 
 A comprehensive EDA of Airbnb listings in Singapore, including data cleaning, visualisation, statistical analysis, and sentiment analysis on guest reviews.
 
+> **Viewing note.** Several charts are interactive Plotly figures, which GitHub's notebook
+> preview does not render. To see them, open the notebook in
+> [nbviewer](https://nbviewer.org/github/aylinyasgul/airbnb-singapore-eda/blob/main/airbnb_singapore_eda.ipynb).
+
 **Course:** Python for Data Analysis I — IE Master in Business Analytics & Data Science (group assignment)
 **Dataset:** [Inside Airbnb — Singapore](https://insideairbnb.com/get-the-data/)
 
