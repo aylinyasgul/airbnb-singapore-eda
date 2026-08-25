@@ -46,7 +46,7 @@ cd <repo-folder>
 ### 2. Install dependencies
 
 ```bash
-pip install pandas numpy matplotlib seaborn plotly textblob nltk langdetect wordcloud scipy statsmodels
+pip install -r requirements.txt
 ```
 
 Download the required NLTK data once inside Python:
